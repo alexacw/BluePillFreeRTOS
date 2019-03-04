@@ -1,0 +1,29 @@
+OpenDocument="stm32f1xx_hal_timebase_tim.c", FilePath="C:\Users\acw\Documents\GitHub\F103FreeRtos\Src\stm32f1xx_hal_timebase_tim.c", Line=45
+OpenDocument="stm32f1xx_hal_cortex.c", FilePath="C:\Users\acw\Documents\GitHub\F103FreeRtos\Drivers/STM32F1xx_HAL_Driver/Src\stm32f1xx_hal_cortex.c", Line=199
+OpenDocument="core_cm3.h", FilePath="C:\Users\acw\Documents\GitHub\F103FreeRtos\Drivers/CMSIS/Include\core_cm3.h", Line=1443
+OpenDocument="stm32f1xx_hal.c", FilePath="C:\Users\acw\Documents\GitHub\F103FreeRtos\Drivers/STM32F1xx_HAL_Driver/Src\stm32f1xx_hal.c", Line=165
+OpenDocument="main.c", FilePath="C:\Users\acw\Documents\GitHub\F103FreeRtos\Src\main.c", Line=64
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Call Stack", DockArea=LEFT, x=0, y=0, w=333, h=218, FilterBarShown=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=1, w=283, h=281, FilterBarShown=0, FilteredItems=[]
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=283, h=341, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Source", x=0, y=0, w=0, h=0, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Global Data", DockArea=BOTTOM, x=2, y=0, w=723, h=327, FilterBarShown=1
+OpenWindow="Local Data", DockArea=BOTTOM, x=2, y=0, w=723, h=327, FilterBarShown=0
+OpenWindow="Watched Data", DockArea=BOTTOM, x=1, y=0, w=875, h=341, FilterBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=1, w=333, h=376, FilterBarShown=1
+OpenWindow="Call Graph", DockArea=LEFT, x=0, y=0, w=333, h=218, FilterBarShown=1
+OpenWindow="Memory Usage", DockArea=LEFT, x=0, y=1, w=333, h=376, FilterBarShown=0
+OpenWindow="Data Graph", DockArea=BOTTOM, x=0, y=0, w=960, h=341, FilterBarShown=1, VisibleTab=0, SamplingFreq=1 kHz, ClearEvent=RESUME
+OpenWindow="Console", DockArea=BOTTOM, x=2, y=0, w=723, h=327, FilterBarShown=0
+OpenWindow="Memory 1", DockArea=LEFT, x=0, y=1, w=333, h=376, FilterBarShown=0, EditorAddress=0x0
+TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type"], ColWidths=[148;84;84;45;266]
+TableHeader="Local Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[159;50;62;44;309;51]
+TableHeader="Call Graph", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Stack Total";"Stack Local";"Depth";"Called From"], ColWidths=[50;74;76;50;78]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[190;58;44;49;169]
+TableHeader="Call Stack", SortCol="Function", SortOrder="ASCENDING", VisibleCols=["Function";"Stack Info";"Source";"PC";"Return Address"], ColWidths=[140;55;41;27;76]
+TableHeader="Watched Data", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[151;101;49;574]
+TableHeader="tableWidgetSamples", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Channel 0"], ColWidths=[60;85;90]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[153;37;189]
+TableHeader="DataGraphSamples", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time                    "], ColWidths=[129;436]
+TableHeader="Data Graph", SortCol="Expression", SortOrder="DESCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[129;71;63;56;67;70;115;134;255]
